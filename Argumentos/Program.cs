@@ -8,8 +8,9 @@ namespace Argumentos
     class Program
     {
         /// <summary>
-        /// O programa comeca aqui
+        /// O Programa comeca aqui
         /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
 
